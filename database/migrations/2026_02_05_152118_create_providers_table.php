@@ -19,7 +19,6 @@ return new class extends Migration
             $table->string('location');
             $table->string('status');
             $table->decimal('commission', 10, 2)->default(0.00);
-            $table->longText('services')->nullable();
             $table->timestamps();
         });
     }
