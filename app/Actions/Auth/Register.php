@@ -2,13 +2,14 @@
 
 namespace App\Actions\Auth;
 
+use App\Models\User;
+
 class Register
 {
-    /**
-     * Create a new class instance.
-     */
-    public function __construct()
+    public function handle(array $input)
     {
-        //
+        return User::create([
+            //
+        ]);
     }
 }
