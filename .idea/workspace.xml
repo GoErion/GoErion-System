@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0bcad-c142-4dc4-8e22-ac944c6868db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Models/Commission.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Commission.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Escrow.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Escrow.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Item.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Item.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Order.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/OrderItem.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/OrderItem.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Payment.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Payment.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Payout.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Payout.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Permission.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Permission.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Provider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Provider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Report.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Report.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Transaction.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Transaction.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +197,7 @@
       <workItem from="1770283859958" duration="1508000" />
       <workItem from="1770285384254" duration="692000" />
       <workItem from="1770286834755" duration="2131000" />
-      <workItem from="1770303362919" duration="12796000" />
+      <workItem from="1770303362919" duration="13583000" />
     </task>
     <servers />
   </component>
