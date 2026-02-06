@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fda0bcad-c142-4dc4-8e22-ac944c6868db" name="Changes" comment="" />
+    <list default="true" id="fda0bcad-c142-4dc4-8e22-ac944c6868db" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2026_02_05_152118_create_providers_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2026_02_05_152118_create_providers_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2026_02_05_152120_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2026_02_05_152120_create_users_table.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,6 +201,8 @@
       <workItem from="1770286834755" duration="2131000" />
       <workItem from="1770303362919" duration="14256000" />
       <workItem from="1770320387617" duration="775000" />
+      <workItem from="1770321440551" duration="299000" />
+      <workItem from="1770405233406" duration="491000" />
     </task>
     <servers />
   </component>
